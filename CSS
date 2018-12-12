@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+li {
+  color: green;
+}
+
+div {
+  border: 1px black solid;
+  background-color: #99aa00;
+  width: 200px;
+}
+
+.kitty {
+  background-color: #990000;
+}
